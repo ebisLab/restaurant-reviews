@@ -293,3 +293,7 @@ justify-content: center;
 .inside #footer {
 	width: 100%
 }
+
+#breadcrumb {
+	width: 100%
+}

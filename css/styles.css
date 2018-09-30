@@ -297,3 +297,9 @@ justify-content: center;
 #breadcrumb {
 	width: 100%
 }
+
+.inside #map-container {
+    height: 325px;
+		position: relative;
+    width: 100%;
+  }

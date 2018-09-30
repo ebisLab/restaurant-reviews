@@ -278,3 +278,10 @@ justify-content: center;
 #restaurant-hours td {
   color: #666;
 }
+
+/* ====================== Media Queries ====================== */
+@media (max-width: 768px) {
+  #maincontent {
+    display: flex;
+    flex-wrap: wrap;
+  }

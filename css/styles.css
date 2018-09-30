@@ -285,3 +285,7 @@ justify-content: center;
     display: flex;
     flex-wrap: wrap;
   }
+
+#restaurant-container, #reviews-container {
+	width: 100%
+}
